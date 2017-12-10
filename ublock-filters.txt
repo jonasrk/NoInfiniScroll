@@ -1,0 +1,3 @@
+!disable infiniscroll
+||youtube.com$xmlhttprequest
+youtube.com###continuations
