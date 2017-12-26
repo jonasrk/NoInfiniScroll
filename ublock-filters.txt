@@ -1,3 +1,4 @@
 !disable infiniscroll
 ||youtube.com$xmlhttprequest
 youtube.com###continuations
+||linkedin.com$xmlhttprequest
